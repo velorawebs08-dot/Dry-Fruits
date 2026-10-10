@@ -1,0 +1,6 @@
+{
+  "name": "Royal Mewa - Premium Dry Fruits & Gift Hampers",
+  "description": "Order farm-fresh, premium and hygienic dry fruits, nuts, seeds, and festive gift hampers with fast WhatsApp and phone delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
